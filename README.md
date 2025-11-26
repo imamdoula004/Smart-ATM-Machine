@@ -45,12 +45,12 @@ This project is intended for learning and prototyping UI → native code interac
 
 ## What’s included
 
-`atm.cpp (or main.cpp)` — the main C++ source.
-`users.txt` — (optional) file format for persistent users (CSV lines: name,accNumber,pin,balance) — used by the BST save/load functions (currently save only).
-`transactions.txt` — append-only transaction log (accNumber,description) read at startup to show history.
-`atm.html` — created by the program at runtime.
-`click.mp3, success.mp3`— optional audio files for UI feedback (place in same directory).
-README (this file) and the MIT License block below.
+- `atm.cpp (or main.cpp)` — the main C++ source.
+- `users.txt` — (optional) file format for persistent users (CSV lines: name,accNumber,pin,balance) — used by the BST save/load functions (currently save only).
+- `transactions.txt` — append-only transaction log (accNumber,description) read at startup to show history.
+- `atm.html` — created by the program at runtime.
+- `click.mp3, success.mp3`— optional audio files for UI feedback (place in same directory).
+- README (this file) and the MIT License block below.
 
 ## Quick start (build & run)
 **Requirements**
