@@ -14,10 +14,8 @@ Built as an educational simulation to demonstrate a simple in-memory BST user st
 6. Data formats
 7. Security & limitations (important)
 8. Suggested improvements
-
-## Contributing
-
-License (MIT)
+9. Contributing
+10. License (MIT)
 
 ## Overview
 
